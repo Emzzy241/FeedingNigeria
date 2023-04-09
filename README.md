@@ -27,7 +27,7 @@ _This is an application whose aim is to kill 2 birds with one stone; the first i
 * _Note: This is version 1.3.0 of the application; the Async and Await version you've all been waiting for_
 
 ## WebLink
-https://emzzy241.github.io/Trivia-Flash-Cards-1.3.0/
+https://emzzy241.github.io/FeedingNigeria/
 
 ## License
 Licensed under the GNU General Public License
