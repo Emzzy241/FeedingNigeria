@@ -19,7 +19,7 @@ _This is an application whose aim is to kill 2 birds with one stone; the first i
 * First clone the project on your System(git clone _REPOSITORY-NAME_)
 * Run npm install in the Terminal(e.g the git bash Terminal). with this, all of the dependencies of the application gets installed
 * Run npm run start to build and start the project on the webpack dev server
-* Note: no environmental variable(.env) file was used here because the amazing trivia database api, do not require an API key
+* No API keys used in this version yet, but API's will be used in future versions
 
 ## Detected Bugs/ Issues
 * _No detected bugs_
