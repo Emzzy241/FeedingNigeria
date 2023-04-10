@@ -588,7 +588,18 @@ body {
     #finishedProjects .container .col-lg-6{
         width: 100%;
     }
-    
+
+    #story .stories .col-md-4{
+        width: 100%;
+    }
+
+    #latest .row .col-10{
+        width: 100%;
+    }
+
+
+
+
 }
 .donation-btn{
     margin-top: 50px;
