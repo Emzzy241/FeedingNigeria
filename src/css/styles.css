@@ -577,6 +577,19 @@ body {
         margin-top: 15px;
     }
 }
+
+@media(max-width: 450px){
+    .donation-form .amount .need .fund{
+        width: 33.33%;
+        float:left;
+        margin-top: 15px;
+    }
+
+    #finishedProjects .container .col-lg-6{
+        width: 100%;
+    }
+    
+}
 .donation-btn{
     margin-top: 50px;
 }
