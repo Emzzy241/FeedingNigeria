@@ -589,10 +589,12 @@ body {
 
     #finishedProjects .container .col-lg-6{
         width: 100%;
+        object-fit: contain;
     }
 
     #finishedProjects .container .col-lg-6 .img-fluid{
         width: 100%;
+        object-fit: contain;
     }
 
     #story .stories .col-md-4{
