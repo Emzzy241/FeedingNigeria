@@ -576,11 +576,15 @@ body {
         float:left;
         margin-top: 15px;
     }
+    #latest .container .row .col-10{
+        width: 100%;
+    }
 }
 
 @media(max-width: 450px){
-    #latest .container .row .project-container{
+    #latest .container .row .col-10{
         width: 100%;
+        object-fit: contain;
     }
 
     #finishedProjects .container .col-lg-6{
@@ -597,6 +601,7 @@ body {
 
     #latest .row .col-10{
         width: 100%;
+
     }
 
 
