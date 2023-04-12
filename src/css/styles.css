@@ -590,6 +590,12 @@ body {
     #latest .container .col-md-6{
         width: 100%;
         object-fit: contain;
+        text-align: center;
+    }
+    
+    #latest .container .col-md-6 .outline{
+        width: 100%;
+        object-fit: contain;
     }
 
     #finishedProjects .container .col-lg-6{
